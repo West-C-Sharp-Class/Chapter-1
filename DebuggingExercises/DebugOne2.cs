@@ -6,7 +6,7 @@ class DebugOne2
    static void main()
    {
       WriteLine("CCCCC   #  #);
-      WriteLine(C     ########");
+      WriteLine(C     ########"):
       WriteLine("C       #  #);
       WriteLine("C     ########");
       WriteLine("CCCCC   #  #");
